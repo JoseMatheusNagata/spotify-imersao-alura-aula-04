@@ -1,4 +1,4 @@
-Projeto HTML,CSS,JS para criar um spotfy
+Projeto HTML,CSS,JS para criar um spotfy #ImersãoFrontEnd e #Alura
 
 
 Banco de dados em json para propositos de aprendizado.
